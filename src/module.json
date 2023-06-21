@@ -1,0 +1,25 @@
+{
+  "id": "ignore-resolution-error",
+  "title": "Ignore resolution error",
+  "version": "0.0.0",
+  "compatibility": {
+    "minimum": "0.8.9",
+    "verified": "11"
+  },
+  "description": "Don't show the 'Foundry Virtual Tabletop requires a minimum screen resolution' at startup.",
+  "authors": [],
+  "url": "",
+  "manifest": "",
+  "download": "",
+  "bugs": "",
+  "esmodules": [
+    "scripts/main.js"
+  ],
+  "languages": [],
+  "relationships": {
+    "requires": [],
+    "recommends": [],
+    "systems": []
+  },
+  "socket": false
+}
